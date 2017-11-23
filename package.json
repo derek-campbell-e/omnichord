@@ -1,0 +1,14 @@
+{
+  "name": "omnichord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "debug=*,-node* nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
